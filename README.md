@@ -1,6 +1,6 @@
 # [Airbnb Toronto Project](https://nbviewer.org/github/jkenloh/AirbnbToronto/blob/main/Airbnb%20Project.ipynb)
 
-**The primary goal of this project is to get an overview of the Airbnb market in Toronto, Ontario.**
+**The primary goal of this project is to get an overview of the Airbnb market in Toronto, Ontario.**\
 Data analysis and visualization using Python. Dashboard created using Tableau.
 
 This is a data analysis project that consists of:
